@@ -1,4 +1,5 @@
 # Rectangle Area Calculation
+# A=wl
 
 width = float(input("What is the width of the rectangle: "))
 length = float(input("What is the length of the rectangle: "))
